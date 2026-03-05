@@ -5,9 +5,9 @@ FastAPI is a modern, fast (high-performance), web framework for building APIs wi
 
 # Key Features:
 
-Agility: Very high performance, on par with NodeJS and Go.
-Fewer bugs: Reduce about 40% of human (developer) induced errors.
-Automatic Docs: It generates interactive API documentation automatically using Swagger UI.
+1. Agility: Very high performance, on par with NodeJS and Go.
+2. Fewer bugs: Reduce about 40% of human (developer) induced errors.
+3. Automatic Docs: It generates interactive API documentation automatically using Swagger UI.
 
 
 # 🛠 Project Overview: E-commerce Store API
